@@ -23,7 +23,7 @@ This repository contains a dataset designed for analyzing employee retention and
 | **number_of_dependents**     | Integer    | Number of dependents the employee has (e.g., children or other family members).                           |
 | **job_level**                | String     | The job level of the employee (`Entry`, `Mid`, `Senior`).                                                 |
 | **company_size**             | String     | Size of the company where the employee works (`Small`, `Medium`, `Large`).                                |
-| **company_tenure**           | Integer    | The total number of months the employee has been in the industry, representing their entire career tenure. |
+| **company_tenure**           | Integer    | The total time in years the company has been in the industry. |
 | **remote_work**              | String     | Indicates if the employee works remotely (`Yes` or `No`).                                                 |
 | **leadership_opportunities** | String     | Indicates if the employee has leadership opportunities (`Yes` or `No`).                                    |
 | **innovation_opportunities** | String     | Indicates if the employee has opportunities for innovation in their role (`Yes` or `No`).                  |
