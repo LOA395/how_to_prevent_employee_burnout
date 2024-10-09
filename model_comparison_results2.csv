@@ -3,83 +3,104 @@ Logistic Regression,Without Outliers,No Scaling,All Features,0.6625725008529512
 Random Forest,Without Outliers,No Scaling,All Features,0.7454793585806891
 SVM,Without Outliers,No Scaling,All Features,0.526100307062436
 Gradient Boosting,Without Outliers,No Scaling,All Features,0.7632207437734562
+XGBoost,Without Outliers,No Scaling,All Features,0.7410440122824974
 Logistic Regression,Without Outliers,No Scaling,No Married and Divorced,0.6605254179460934
 Random Forest,Without Outliers,No Scaling,No Married and Divorced,0.7516206073012623
 SVM,Without Outliers,No Scaling,No Married and Divorced,0.526100307062436
 Gradient Boosting,Without Outliers,No Scaling,No Married and Divorced,0.757079495052883
+XGBoost,Without Outliers,No Scaling,No Married and Divorced,0.72978505629478
 Logistic Regression,Without Outliers,No Scaling,No Job Satisfaction,0.6622313203684749
 Random Forest,Without Outliers,No Scaling,No Job Satisfaction,0.7420675537359263
 SVM,Without Outliers,No Scaling,No Job Satisfaction,0.526100307062436
 Gradient Boosting,Without Outliers,No Scaling,No Job Satisfaction,0.7526441487546912
+XGBoost,Without Outliers,No Scaling,No Job Satisfaction,0.7400204708290685
 Logistic Regression,Without Outliers,No Scaling,No Job Role,0.66359604230638
 Random Forest,Without Outliers,No Scaling,No Job Role,0.7543500511770727
 SVM,Without Outliers,No Scaling,No Job Role,0.526100307062436
 Gradient Boosting,Without Outliers,No Scaling,No Job Role,0.7601501194131696
+XGBoost,Without Outliers,No Scaling,No Job Role,0.7407028317980211
 Logistic Regression,Without Outliers,No Scaling,No Monthly Income,0.7477845944103613
 Random Forest,Without Outliers,No Scaling,No Monthly Income,0.7508520790729379
 SVM,Without Outliers,No Scaling,No Monthly Income,0.6710974778459441
 Gradient Boosting,Without Outliers,No Scaling,No Monthly Income,0.7641445126107703
+XGBoost,Without Outliers,No Scaling,No Monthly Income,0.7348329925017042
 Logistic Regression,Without Outliers,No Scaling,No Monthly Income and Job Satisfaction,0.7508520790729379
 Random Forest,Without Outliers,No Scaling,No Monthly Income and Job Satisfaction,0.7498295841854125
 SVM,Without Outliers,No Scaling,No Monthly Income and Job Satisfaction,0.6707566462167689
 Gradient Boosting,Without Outliers,No Scaling,No Monthly Income and Job Satisfaction,0.7678936605316974
+XGBoost,Without Outliers,No Scaling,No Monthly Income and Job Satisfaction,0.7341513292433538
 Logistic Regression,Without Outliers,No Scaling,No Selection,0.7494887525562373
 Random Forest,Without Outliers,No Scaling,No Selection,0.7532379004771643
 SVM,Without Outliers,No Scaling,No Selection,0.665303340149966
 Gradient Boosting,Without Outliers,No Scaling,No Selection,0.7668711656441718
+XGBoost,Without Outliers,No Scaling,No Selection,0.734492160872529
 Logistic Regression,Without Outliers,Standardization,All Features,0.7519617877857386
 Random Forest,Without Outliers,Standardization,All Features,0.7447969976117366
 SVM,Without Outliers,Standardization,All Features,0.7410440122824974
 Gradient Boosting,Without Outliers,Standardization,All Features,0.7632207437734562
+XGBoost,Without Outliers,Standardization,All Features,0.7410440122824974
 Logistic Regression,Without Outliers,Standardization,No Married and Divorced,0.7482088024564995
 Random Forest,Without Outliers,Standardization,No Married and Divorced,0.7505970658478335
 SVM,Without Outliers,Standardization,No Married and Divorced,0.7444558171272603
 Gradient Boosting,Without Outliers,Standardization,No Married and Divorced,0.757079495052883
+XGBoost,Without Outliers,Standardization,No Married and Divorced,0.72978505629478
 Logistic Regression,Without Outliers,Standardization,No Job Satisfaction,0.7543500511770727
 Random Forest,Without Outliers,Standardization,No Job Satisfaction,0.744114636642784
 SVM,Without Outliers,Standardization,No Job Satisfaction,0.744114636642784
 Gradient Boosting,Without Outliers,Standardization,No Job Satisfaction,0.7526441487546912
+XGBoost,Without Outliers,Standardization,No Job Satisfaction,0.7400204708290685
 Logistic Regression,Without Outliers,Standardization,No Job Role,0.7529853292391675
 Random Forest,Without Outliers,Standardization,No Job Role,0.7526441487546912
 SVM,Without Outliers,Standardization,No Job Role,0.7444558171272603
 Gradient Boosting,Without Outliers,Standardization,No Job Role,0.7601501194131696
+XGBoost,Without Outliers,Standardization,No Job Role,0.7407028317980211
 Logistic Regression,Without Outliers,Standardization,No Monthly Income,0.7501704158145875
 Random Forest,Without Outliers,Standardization,No Monthly Income,0.7488070892978869
 SVM,Without Outliers,Standardization,No Monthly Income,0.7528970688479891
 Gradient Boosting,Without Outliers,Standardization,No Monthly Income,0.7641445126107703
+XGBoost,Without Outliers,Standardization,No Monthly Income,0.7348329925017042
 Logistic Regression,Without Outliers,Standardization,No Monthly Income and Job Satisfaction,0.7501704158145875
 Random Forest,Without Outliers,Standardization,No Monthly Income and Job Satisfaction,0.7498295841854125
 SVM,Without Outliers,Standardization,No Monthly Income and Job Satisfaction,0.7443762781186094
 Gradient Boosting,Without Outliers,Standardization,No Monthly Income and Job Satisfaction,0.7678936605316974
+XGBoost,Without Outliers,Standardization,No Monthly Income and Job Satisfaction,0.7341513292433538
 Logistic Regression,Without Outliers,Standardization,No Selection,0.7498295841854125
 Random Forest,Without Outliers,Standardization,No Selection,0.7532379004771643
 SVM,Without Outliers,Standardization,No Selection,0.7426721199727335
 Gradient Boosting,Without Outliers,Standardization,No Selection,0.7668711656441718
+XGBoost,Without Outliers,Standardization,No Selection,0.734492160872529
 Logistic Regression,Without Outliers,Normalization,All Features,0.7519617877857386
 Random Forest,Without Outliers,Normalization,All Features,0.7447969976117366
 SVM,Without Outliers,Normalization,All Features,0.7523029682702149
 Gradient Boosting,Without Outliers,Normalization,All Features,0.7632207437734562
+XGBoost,Without Outliers,Normalization,All Features,0.7410440122824974
 Logistic Regression,Without Outliers,Normalization,No Married and Divorced,0.7475264414875469
 Random Forest,Without Outliers,Normalization,No Married and Divorced,0.7505970658478335
 SVM,Without Outliers,Normalization,No Married and Divorced,0.7509382463323098
 Gradient Boosting,Without Outliers,Normalization,No Married and Divorced,0.757079495052883
+XGBoost,Without Outliers,Normalization,No Married and Divorced,0.72978505629478
 Logistic Regression,Without Outliers,Normalization,No Job Satisfaction,0.7543500511770727
 Random Forest,Without Outliers,Normalization,No Job Satisfaction,0.7434322756738314
 SVM,Without Outliers,Normalization,No Job Satisfaction,0.744114636642784
 Gradient Boosting,Without Outliers,Normalization,No Job Satisfaction,0.7526441487546912
+XGBoost,Without Outliers,Normalization,No Job Satisfaction,0.7400204708290685
 Logistic Regression,Without Outliers,Normalization,No Job Role,0.7533265097236438
 Random Forest,Without Outliers,Normalization,No Job Role,0.7557147731149778
 SVM,Without Outliers,Normalization,No Job Role,0.759467758444217
 Gradient Boosting,Without Outliers,Normalization,No Job Role,0.7601501194131696
+XGBoost,Without Outliers,Normalization,No Job Role,0.7407028317980211
 Logistic Regression,Without Outliers,Normalization,No Monthly Income,0.7501704158145875
 Random Forest,Without Outliers,Normalization,No Monthly Income,0.7484662576687117
 SVM,Without Outliers,Normalization,No Monthly Income,0.7477845944103613
 Gradient Boosting,Without Outliers,Normalization,No Monthly Income,0.7641445126107703
+XGBoost,Without Outliers,Normalization,No Monthly Income,0.7348329925017042
 Logistic Regression,Without Outliers,Normalization,No Monthly Income and Job Satisfaction,0.7505112474437627
 Random Forest,Without Outliers,Normalization,No Monthly Income and Job Satisfaction,0.7501704158145875
 SVM,Without Outliers,Normalization,No Monthly Income and Job Satisfaction,0.745398773006135
 Gradient Boosting,Without Outliers,Normalization,No Monthly Income and Job Satisfaction,0.7678936605316974
+XGBoost,Without Outliers,Normalization,No Monthly Income and Job Satisfaction,0.7341513292433538
 Logistic Regression,Without Outliers,Normalization,No Selection,0.7505112474437627
 Random Forest,Without Outliers,Normalization,No Selection,0.7535787321063395
 SVM,Without Outliers,Normalization,No Selection,0.7433537832310838
 Gradient Boosting,Without Outliers,Normalization,No Selection,0.7668711656441718
+XGBoost,Without Outliers,Normalization,No Selection,0.734492160872529
