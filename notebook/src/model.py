@@ -124,10 +124,11 @@ numeric_features = [col for col in ['age', 'work_life_balance', 'education_level
                                     'number_of_dependents', 'company_tenure', 'employee_recognition'] if col in x.columns]
 
 # Select the 'Without Selection' feature set 
-X_reduced = x[[
-    col for col in all_features if col not in ['job_satisfaction', 'monthly_income', 'job_role_Education',
-                                                'job_role_Finance', 'job_role_Healthcare', 'job_role_Media',
-                                                'job_role_Technology', 'marital_status_Married', 'marital_status_Divorced',]]]
+X_reduced = x[[col for col in all_features if col not in ['job_satisfaction', 'monthly_income', 'job_role_Education',
+                                                          'job_role_Finance', 'job_role_Healthcare', 'job_role_Media',
+                                                          'job_role_Technology', 'marital_status_Married', 
+                                                          'marital_status_Divorced','gender_Male']]]
+
 
 
 # Remove outliers
