@@ -2,10 +2,11 @@
 import streamlit as st
 import pickle
 import numpy as np
+import os
 
 
-# Load the model from the pickle file
-with open('../models/final_model.pkl', 'rb') as file:
+model_path = os.path.join(os.getcwd(), 'models', 'final_model.pkl')
+with open(model_path, 'rb') as file:
     model = pickle.load(file)
 
 # Streamlit title and description
