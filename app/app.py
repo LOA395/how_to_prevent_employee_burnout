@@ -5,7 +5,7 @@ import numpy as np
 
 
 # Load the model from the pickle file
-with open('models/final_model.pkl', 'rb') as file:
+with open('../models/final_model.pkl', 'rb') as file:
     model = pickle.load(file)
 
 # Streamlit title and description
