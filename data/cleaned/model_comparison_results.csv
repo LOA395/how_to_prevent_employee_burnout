@@ -1,0 +1,181 @@
+Model,Outliers,Scaling,Feature Set,Accuracy
+Logistic Regression,With Outliers,No Scaling,All Features,0.6385906040268456
+Decision Tree,With Outliers,No Scaling,All Features,0.6610738255033557
+Random Forest,With Outliers,No Scaling,All Features,0.7395973154362416
+SVM,With Outliers,No Scaling,All Features,0.5332214765100671
+KNN,With Outliers,No Scaling,All Features,0.511744966442953
+Logistic Regression,With Outliers,No Scaling,Numeric Only,0.6204697986577181
+Decision Tree,With Outliers,No Scaling,Numeric Only,0.5812080536912752
+Random Forest,With Outliers,No Scaling,Numeric Only,0.6778523489932886
+SVM,With Outliers,No Scaling,Numeric Only,0.5332214765100671
+KNN,With Outliers,No Scaling,Numeric Only,0.512751677852349
+Logistic Regression,With Outliers,No Scaling,Categorical Only,0.6553691275167786
+Decision Tree,With Outliers,No Scaling,Categorical Only,0.6503355704697986
+Random Forest,With Outliers,No Scaling,Categorical Only,0.6493288590604027
+SVM,With Outliers,No Scaling,Categorical Only,0.6560402684563759
+KNN,With Outliers,No Scaling,Categorical Only,0.6117449664429531
+Logistic Regression,With Outliers,No Scaling,No Married and Divorced,0.6318791946308725
+Decision Tree,With Outliers,No Scaling,No Married and Divorced,0.6540268456375838
+Random Forest,With Outliers,No Scaling,No Married and Divorced,0.737248322147651
+SVM,With Outliers,No Scaling,No Married and Divorced,0.5332214765100671
+KNN,With Outliers,No Scaling,No Married and Divorced,0.5120805369127517
+Logistic Regression,With Outliers,No Scaling,No Job Satisfaction,0.6375838926174496
+Decision Tree,With Outliers,No Scaling,No Job Satisfaction,0.6456375838926175
+Random Forest,With Outliers,No Scaling,No Job Satisfaction,0.7251677852348993
+SVM,With Outliers,No Scaling,No Job Satisfaction,0.5332214765100671
+KNN,With Outliers,No Scaling,No Job Satisfaction,0.5114093959731544
+Logistic Regression,With Outliers,No Scaling,No Job Role Finance,0.6385906040268456
+Decision Tree,With Outliers,No Scaling,No Job Role Finance,0.6510067114093959
+Random Forest,With Outliers,No Scaling,No Job Role Finance,0.7379194630872483
+SVM,With Outliers,No Scaling,No Job Role Finance,0.5332214765100671
+KNN,With Outliers,No Scaling,No Job Role Finance,0.5120805369127517
+Logistic Regression,With Outliers,Standardization,All Features,0.7348993288590604
+Decision Tree,With Outliers,Standardization,All Features,0.6600671140939597
+Random Forest,With Outliers,Standardization,All Features,0.7369127516778523
+SVM,With Outliers,Standardization,All Features,0.7278523489932885
+KNN,With Outliers,Standardization,All Features,0.6647651006711409
+Logistic Regression,With Outliers,Standardization,Numeric Only,0.6640939597315436
+Decision Tree,With Outliers,Standardization,Numeric Only,0.5812080536912752
+Random Forest,With Outliers,Standardization,Numeric Only,0.674496644295302
+SVM,With Outliers,Standardization,Numeric Only,0.675503355704698
+KNN,With Outliers,Standardization,Numeric Only,0.613758389261745
+Logistic Regression,With Outliers,Standardization,Categorical Only,0.6553691275167786
+Decision Tree,With Outliers,Standardization,Categorical Only,0.6503355704697986
+Random Forest,With Outliers,Standardization,Categorical Only,0.6493288590604027
+SVM,With Outliers,Standardization,Categorical Only,0.6546979865771813
+KNN,With Outliers,Standardization,Categorical Only,0.6140939597315436
+Logistic Regression,With Outliers,Standardization,No Married and Divorced,0.7315436241610739
+Decision Tree,With Outliers,Standardization,No Married and Divorced,0.6533557046979865
+Random Forest,With Outliers,Standardization,No Married and Divorced,0.736241610738255
+SVM,With Outliers,Standardization,No Married and Divorced,0.7288590604026846
+KNN,With Outliers,Standardization,No Married and Divorced,0.6563758389261745
+Logistic Regression,With Outliers,Standardization,No Job Satisfaction,0.7348993288590604
+Decision Tree,With Outliers,Standardization,No Job Satisfaction,0.6442953020134228
+Random Forest,With Outliers,Standardization,No Job Satisfaction,0.7248322147651006
+SVM,With Outliers,Standardization,No Job Satisfaction,0.7238255033557047
+KNN,With Outliers,Standardization,No Job Satisfaction,0.6600671140939597
+Logistic Regression,With Outliers,Standardization,No Job Role Finance,0.7348993288590604
+Decision Tree,With Outliers,Standardization,No Job Role Finance,0.6506711409395973
+Random Forest,With Outliers,Standardization,No Job Role Finance,0.736241610738255
+SVM,With Outliers,Standardization,No Job Role Finance,0.7291946308724833
+KNN,With Outliers,Standardization,No Job Role Finance,0.6647651006711409
+Logistic Regression,With Outliers,Normalization,All Features,0.7352348993288591
+Decision Tree,With Outliers,Normalization,All Features,0.661744966442953
+Random Forest,With Outliers,Normalization,All Features,0.7365771812080537
+SVM,With Outliers,Normalization,All Features,0.7298657718120806
+KNN,With Outliers,Normalization,All Features,0.6825503355704698
+Logistic Regression,With Outliers,Normalization,Numeric Only,0.6644295302013423
+Decision Tree,With Outliers,Normalization,Numeric Only,0.5815436241610739
+Random Forest,With Outliers,Normalization,Numeric Only,0.6775167785234899
+SVM,With Outliers,Normalization,Numeric Only,0.6798657718120805
+KNN,With Outliers,Normalization,Numeric Only,0.6191275167785235
+Logistic Regression,With Outliers,Normalization,Categorical Only,0.6553691275167786
+Decision Tree,With Outliers,Normalization,Categorical Only,0.6503355704697986
+Random Forest,With Outliers,Normalization,Categorical Only,0.6493288590604027
+SVM,With Outliers,Normalization,Categorical Only,0.6560402684563759
+KNN,With Outliers,Normalization,Categorical Only,0.6117449664429531
+Logistic Regression,With Outliers,Normalization,No Married and Divorced,0.7315436241610739
+Decision Tree,With Outliers,Normalization,No Married and Divorced,0.6546979865771813
+Random Forest,With Outliers,Normalization,No Married and Divorced,0.7365771812080537
+SVM,With Outliers,Normalization,No Married and Divorced,0.7271812080536912
+KNN,With Outliers,Normalization,No Married and Divorced,0.6822147651006711
+Logistic Regression,With Outliers,Normalization,No Job Satisfaction,0.7352348993288591
+Decision Tree,With Outliers,Normalization,No Job Satisfaction,0.6459731543624161
+Random Forest,With Outliers,Normalization,No Job Satisfaction,0.7251677852348993
+SVM,With Outliers,Normalization,No Job Satisfaction,0.725503355704698
+KNN,With Outliers,Normalization,No Job Satisfaction,0.6788590604026845
+Logistic Regression,With Outliers,Normalization,No Job Role Finance,0.7352348993288591
+Decision Tree,With Outliers,Normalization,No Job Role Finance,0.6520134228187919
+Random Forest,With Outliers,Normalization,No Job Role Finance,0.7385906040268456
+SVM,With Outliers,Normalization,No Job Role Finance,0.7315436241610739
+KNN,With Outliers,Normalization,No Job Role Finance,0.6818791946308724
+Logistic Regression,Without Outliers,No Scaling,All Features,0.6625725008529512
+Decision Tree,Without Outliers,No Scaling,All Features,0.6676902081200955
+Random Forest,Without Outliers,No Scaling,All Features,0.7454793585806891
+SVM,Without Outliers,No Scaling,All Features,0.526100307062436
+KNN,Without Outliers,No Scaling,All Features,0.5223473217331969
+Logistic Regression,Without Outliers,No Scaling,Numeric Only,0.633913340156943
+Decision Tree,Without Outliers,No Scaling,Numeric Only,0.6165131354486524
+Random Forest,Without Outliers,No Scaling,Numeric Only,0.689525759126578
+SVM,Without Outliers,No Scaling,Numeric Only,0.526100307062436
+KNN,Without Outliers,No Scaling,Numeric Only,0.5206414193108154
+Logistic Regression,Without Outliers,No Scaling,Categorical Only,0.6553691275167786
+Decision Tree,Without Outliers,No Scaling,Categorical Only,0.6503355704697986
+Random Forest,Without Outliers,No Scaling,Categorical Only,0.6493288590604027
+SVM,Without Outliers,No Scaling,Categorical Only,0.6560402684563759
+KNN,Without Outliers,No Scaling,Categorical Only,0.6117449664429531
+Logistic Regression,Without Outliers,No Scaling,No Married and Divorced,0.6605254179460934
+Decision Tree,Without Outliers,No Scaling,No Married and Divorced,0.6676902081200955
+Random Forest,Without Outliers,No Scaling,No Married and Divorced,0.7516206073012623
+SVM,Without Outliers,No Scaling,No Married and Divorced,0.526100307062436
+KNN,Without Outliers,No Scaling,No Married and Divorced,0.521323780279768
+Logistic Regression,Without Outliers,No Scaling,No Job Satisfaction,0.6622313203684749
+Decision Tree,Without Outliers,No Scaling,No Job Satisfaction,0.6632548618219037
+Random Forest,Without Outliers,No Scaling,No Job Satisfaction,0.7420675537359263
+SVM,Without Outliers,No Scaling,No Job Satisfaction,0.526100307062436
+KNN,Without Outliers,No Scaling,No Job Satisfaction,0.5209825997952917
+Logistic Regression,Without Outliers,No Scaling,No Job Role Finance,0.6625725008529512
+Decision Tree,Without Outliers,No Scaling,No Job Role Finance,0.6673490276356192
+Random Forest,Without Outliers,No Scaling,No Job Role Finance,0.7516206073012623
+SVM,Without Outliers,No Scaling,No Job Role Finance,0.526100307062436
+KNN,Without Outliers,No Scaling,No Job Role Finance,0.5223473217331969
+Logistic Regression,Without Outliers,Standardization,All Features,0.7519617877857386
+Decision Tree,Without Outliers,Standardization,All Features,0.6690549300580007
+Random Forest,Without Outliers,Standardization,All Features,0.7447969976117366
+SVM,Without Outliers,Standardization,All Features,0.7410440122824974
+KNN,Without Outliers,Standardization,All Features,0.6806550665301945
+Logistic Regression,Without Outliers,Standardization,Numeric Only,0.6902081200955306
+Decision Tree,Without Outliers,Standardization,Numeric Only,0.6175366769020812
+Random Forest,Without Outliers,Standardization,Numeric Only,0.687137495735244
+SVM,Without Outliers,Standardization,Numeric Only,0.6867963152507677
+KNN,Without Outliers,Standardization,Numeric Only,0.6325486182190379
+Logistic Regression,Without Outliers,Standardization,Categorical Only,0.6553691275167786
+Decision Tree,Without Outliers,Standardization,Categorical Only,0.6503355704697986
+Random Forest,Without Outliers,Standardization,Categorical Only,0.6493288590604027
+SVM,Without Outliers,Standardization,Categorical Only,0.6546979865771813
+KNN,Without Outliers,Standardization,Categorical Only,0.6140939597315436
+Logistic Regression,Without Outliers,Standardization,No Married and Divorced,0.7482088024564995
+Decision Tree,Without Outliers,Standardization,No Married and Divorced,0.6680313886045718
+Random Forest,Without Outliers,Standardization,No Married and Divorced,0.7505970658478335
+SVM,Without Outliers,Standardization,No Married and Divorced,0.7444558171272603
+KNN,Without Outliers,Standardization,No Married and Divorced,0.6745138178096213
+Logistic Regression,Without Outliers,Standardization,No Job Satisfaction,0.7543500511770727
+Decision Tree,Without Outliers,Standardization,No Job Satisfaction,0.6656431252132378
+Random Forest,Without Outliers,Standardization,No Job Satisfaction,0.744114636642784
+SVM,Without Outliers,Standardization,No Job Satisfaction,0.744114636642784
+KNN,Without Outliers,Standardization,No Job Satisfaction,0.6769020812009553
+Logistic Regression,Without Outliers,Standardization,No Job Role Finance,0.7519617877857386
+Decision Tree,Without Outliers,Standardization,No Job Role Finance,0.6683725690890481
+Random Forest,Without Outliers,Standardization,No Job Role Finance,0.7499147048788809
+SVM,Without Outliers,Standardization,No Job Role Finance,0.7444558171272603
+KNN,Without Outliers,Standardization,No Job Role Finance,0.6867963152507677
+Logistic Regression,Without Outliers,Normalization,All Features,0.7519617877857386
+Decision Tree,Without Outliers,Normalization,All Features,0.6680313886045718
+Random Forest,Without Outliers,Normalization,All Features,0.7447969976117366
+SVM,Without Outliers,Normalization,All Features,0.7523029682702149
+KNN,Without Outliers,Normalization,All Features,0.6898669396110543
+Logistic Regression,Without Outliers,Normalization,Numeric Only,0.6902081200955306
+Decision Tree,Without Outliers,Normalization,Numeric Only,0.6161719549641761
+Random Forest,Without Outliers,Normalization,Numeric Only,0.687137495735244
+SVM,Without Outliers,Normalization,Numeric Only,0.6929375639713409
+KNN,Without Outliers,Normalization,Numeric Only,0.6458546571136131
+Logistic Regression,Without Outliers,Normalization,Categorical Only,0.6553691275167786
+Decision Tree,Without Outliers,Normalization,Categorical Only,0.6503355704697986
+Random Forest,Without Outliers,Normalization,Categorical Only,0.6493288590604027
+SVM,Without Outliers,Normalization,Categorical Only,0.6560402684563759
+KNN,Without Outliers,Normalization,Categorical Only,0.6117449664429531
+Logistic Regression,Without Outliers,Normalization,No Married and Divorced,0.7475264414875469
+Decision Tree,Without Outliers,Normalization,No Married and Divorced,0.6683725690890481
+Random Forest,Without Outliers,Normalization,No Married and Divorced,0.7505970658478335
+SVM,Without Outliers,Normalization,No Married and Divorced,0.7509382463323098
+KNN,Without Outliers,Normalization,No Married and Divorced,0.6857727737973388
+Logistic Regression,Without Outliers,Normalization,No Job Satisfaction,0.7543500511770727
+Decision Tree,Without Outliers,Normalization,No Job Satisfaction,0.6632548618219037
+Random Forest,Without Outliers,Normalization,No Job Satisfaction,0.7434322756738314
+SVM,Without Outliers,Normalization,No Job Satisfaction,0.744114636642784
+KNN,Without Outliers,Normalization,No Job Satisfaction,0.6854315933128625
+Logistic Regression,Without Outliers,Normalization,No Job Role Finance,0.7516206073012623
+Decision Tree,Without Outliers,Normalization,No Job Role Finance,0.6676902081200955
+Random Forest,Without Outliers,Normalization,No Job Role Finance,0.7523029682702149
+SVM,Without Outliers,Normalization,No Job Role Finance,0.7495735243944046
+KNN,Without Outliers,Normalization,No Job Role Finance,0.6932787444558172
