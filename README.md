@@ -54,21 +54,13 @@ Techniques used:
 
 ## Results
 
-- The best model achieved an accuracy of **77.13%** using Gradient Boosting with optimized hyperparameters.
+- The best model achieved an accuracy of **77%** using Gradient Boosting with optimized hyperparameters.
 - Important features contributing to employee attrition include **Job Level, Work Life Balance, Remote Work and Marital Status**.
 - Surprisingly, the variables of Job Satisfaction and Monthly Income had a very low correlation with Atrittion and excluding them improved the results of the model.
 
-## Requirements
-- **Python 3.9**:
-  - `pandas`
-  - `seaborn`
-  - `matplotlib`
-  - `scipy`
-  - `statsmodels`
+## Resources
 
-## # Resource
 - [Presentación](https://www.canva.com/design/DAGTF-aqEWI/eHIGmxU6ob62-Myu18UHrw/edit?utm_content=DA[…]m_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
 
 ## Autores:
   - `Laura Ortiz Alameda` - [Linkedin](https://www.linkedin.com/in/laura-ortiz-alameda/)
