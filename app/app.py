@@ -1,14 +1,14 @@
 # Libraries
 import streamlit as st
+import pickle
 import numpy as np
 import os
-import joblib
 
 
 
 model_path = os.path.join(os.getcwd(), 'models', 'final_model.pkl')
 with open(model_path, 'rb') as file:
-    model = joblib.load(file)
+    model = pickle.load(file)
 
 # Streamlit title and description
 st.title('Employee Attrition Prediction')
