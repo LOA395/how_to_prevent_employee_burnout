@@ -4,13 +4,13 @@ channels:
 dependencies:
   - python=3.9
   - pip
+  - numpy=1.21.6
+  - scipy=1.7.3
   - scikit-learn
-  - numpy
   - pandas
   - joblib
   - xgboost
   - seaborn
   - matplotlib
-  - scipy  # If required
   - pip:
       - streamlit
