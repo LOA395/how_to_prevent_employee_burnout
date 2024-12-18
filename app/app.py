@@ -4,11 +4,14 @@ import pickle
 import numpy as np
 import os
 
+current_dir = os.path.dirname(os.path.abspath(__file__))
+model_path = os.path.join(current_dir, '..', 'models', 'final_model.pkl')
 
 
-model_path = os.path.join(os.getcwd(), 'models', 'final_model.pkl')
+# Load model
 with open(model_path, 'rb') as file:
     model = pickle.load(file)
+
 
 # Streamlit title and description
 st.title('Employee Attrition Prediction')
