@@ -58,6 +58,7 @@ Techniques used:
 - Important features contributing to employee attrition include **Job Level, Work Life Balance, Remote Work and Marital Status**.
 - Surprisingly, the variables of Job Satisfaction and Monthly Income had a very low correlation with Atrittion and excluding them improved the results of the model.
 
+[![Demo Video](demo/thumbnail.png)](demo/demo_app.mp4)
 
 ## Resources
 
